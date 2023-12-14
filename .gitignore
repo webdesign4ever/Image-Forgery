@@ -4,4 +4,3 @@
 # Ignore compiled Python files (if any)
 __pycache__/
 
-model_ELAImgForgery.h5
